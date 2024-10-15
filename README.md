@@ -39,7 +39,7 @@ import { useTonConnectUI } from '@townsquarelabs/ui-vue'
 const [tonConnectUI, setOptions] = useTonConnectUI()
 ```
 
-4. Send TON coins (in nanotons) to a specific address
+4. Sending TON coins (in nanotons) to a specific address
 
 ```javascript
 const tx = {
